@@ -2,7 +2,7 @@
 #include "stat.h"
 #include "user.h"
 
-main{
+int main(){
     shutdown();
     exit();
 }
