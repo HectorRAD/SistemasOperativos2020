@@ -21,6 +21,7 @@ int main(int argc, char **argv){
         sleep(5);
         printf("Soy el proceso hijo\n");
 
+
     } else {
 
         sleep(2);
